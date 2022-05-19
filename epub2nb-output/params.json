@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Pošetilost doktora vinnetouologie",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Martin Fahrner",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-05-26T00:00:00.000Z"
+      "modified": "2021-05-26T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
@@ -17,64 +21,69 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
+      "brBefore": "MLP_text_bez1radku \nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_text_bez1radku_-12-0-",
+      "brAfter": "MLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "verse": "MLP-verse\nMLP-verse.+",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "verse": "MLP-verse\nMLP-verse.+"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "posetilost_doktora_vinnetouologie_001.md",
             "xhtml": "posetilost_doktora_vinnetouologie_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_002.md",
             "xhtml": "posetilost_doktora_vinnetouologie_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_003.md",
             "xhtml": "posetilost_doktora_vinnetouologie_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_004.md",
             "xhtml": "posetilost_doktora_vinnetouologie_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_005.md",
@@ -85,7 +94,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Porta"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_006.md",
@@ -96,7 +107,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lopatkiáda"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_007.md",
@@ -107,7 +120,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Mlha"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_008.md",
@@ -118,7 +133,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kotva"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_009.md",
@@ -129,7 +146,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dědek"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_010.md",
@@ -140,7 +159,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Labuť"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_011.md",
@@ -151,7 +172,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Mlýn"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_012.md",
@@ -162,7 +185,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jak se vyhnout kopcům"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_013.md",
@@ -173,7 +198,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Index"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_014.md",
@@ -184,7 +211,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zoja"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_015.md",
@@ -195,7 +224,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Roudnické rosé"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_016.md",
@@ -206,7 +237,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Doktor vinnetouologie"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_017.md",
@@ -217,7 +250,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Plukovník Ripl"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_018.md",
@@ -228,7 +263,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Praxe"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_019.md",
@@ -239,7 +276,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jana"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_020.md",
@@ -250,7 +289,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Krásný večírek"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_021.md",
@@ -261,7 +302,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ruka"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_022.md",
@@ -272,7 +315,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Monika"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_023.md",
@@ -283,7 +328,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Svatba"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_024.md",
@@ -294,7 +341,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vaňov"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_025.md",
@@ -305,7 +354,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Na Mariánské skále"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_026.md",
@@ -316,7 +367,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Aura"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_027.md",
@@ -327,7 +380,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Svatební cesta"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_028.md",
@@ -338,7 +393,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Bar"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_029.md",
@@ -349,7 +406,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Cirkus"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_030.md",
@@ -360,7 +419,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Šachy"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_031.md",
@@ -371,7 +432,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lustr"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_032.md",
@@ -382,7 +445,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Hospoda"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_033.md",
@@ -393,7 +458,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Automaty"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_034.md",
@@ -404,7 +471,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Magistři"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_035.md",
@@ -415,7 +484,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Stříbrný vítr"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_036.md",
@@ -426,18 +497,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Přilba"
           },
           {
             "filename": "posetilost_doktora_vinnetouologie_037.md",
             "xhtml": "posetilost_doktora_vinnetouologie_037.xhtml",
             "id": 36,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -731,6 +805,6 @@
       "user": "books-are-next",
       "repo": "posetilost-doktora-vinnetouologie"
     },
-    "generatedAt": 1652950800692
+    "generatedAt": 1652951148939
   }
 }

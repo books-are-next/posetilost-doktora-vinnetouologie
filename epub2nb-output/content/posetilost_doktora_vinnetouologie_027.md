@@ -15,6 +15,8 @@ Brali jsme se příštího roku na jaře, bez účasti příbuzných a rodičů
 
 Vstoupil do sálu, a sotva nás uviděl, vypadl ze hry. Celou řeč prokoktal a musel se pořád opravovat, protože se díval hned sem a hned zase tam a asi čekal, že odněkud v nestřeženém okamžiku vyskočí Bláha a strašně zavře „Blahóóó!“, jako na Dědkově svatbě. Nevěděl, že je tou dobou s cirkusem ve Švédsku. Takže když se opravdu rozletěly dveře a v nich nestál Bláha, ale Janina babička, která už dlouho žila jen proto, aby se dočkala její svatby a my ji nakonec nepozvali, chytil babičku pod krkem, jako by to byl přestrojený Bláha. Nakonec ale uznal svůj omyl a mohl prohlásit náš sňatek za uzavřený.
 
+  
+
 My tělocvikáři jsme jezdívali s fakultou každý rok na soustředění do Tater, někdy jsme se tam otočili za rok i dvakrát, a protože vysokohorských tras tam zase tolik není, brzo jsme je všechny docela dobře znali. Po revoluci se na katedru tělocviku obrátila jedna cestovní kancelář, jestli by pro ně nějaký student nemohl připravovat trasy. Bylo potřeba zajet předem na místo, celou trasu projít, stopnout dobu na její zdolání a hlavně odhadnout obtížnost. Nebylo to nijak zvlášť placené, ale mě to bavilo.
 
 Majitelka cestovky mi po svatbě sama od sebe nabídla, že příště můžu vzít ženu na útraty kanceláře do Tater s sebou, takže jsme se zmohli i na svatební cestu.

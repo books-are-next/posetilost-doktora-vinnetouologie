@@ -1,0 +1,739 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Pošetilost doktora vinnetouologie",
+  "author": "Martin Fahrner",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "fahrner-posetilost-doktora-vinnetouologie-3e7ec02",
+  "revision": "3e7ec02",
+  "readingOrder": [
+    "promo.html",
+    "posetilost_doktora_vinnetouologie_005.html",
+    "posetilost_doktora_vinnetouologie_006.html",
+    "posetilost_doktora_vinnetouologie_007.html",
+    "posetilost_doktora_vinnetouologie_008.html",
+    "posetilost_doktora_vinnetouologie_009.html",
+    "posetilost_doktora_vinnetouologie_010.html",
+    "posetilost_doktora_vinnetouologie_011.html",
+    "posetilost_doktora_vinnetouologie_012.html",
+    "posetilost_doktora_vinnetouologie_013.html",
+    "posetilost_doktora_vinnetouologie_014.html",
+    "posetilost_doktora_vinnetouologie_015.html",
+    "posetilost_doktora_vinnetouologie_016.html",
+    "posetilost_doktora_vinnetouologie_017.html",
+    "posetilost_doktora_vinnetouologie_018.html",
+    "posetilost_doktora_vinnetouologie_019.html",
+    "posetilost_doktora_vinnetouologie_020.html",
+    "posetilost_doktora_vinnetouologie_021.html",
+    "posetilost_doktora_vinnetouologie_022.html",
+    "posetilost_doktora_vinnetouologie_023.html",
+    "posetilost_doktora_vinnetouologie_024.html",
+    "posetilost_doktora_vinnetouologie_025.html",
+    "posetilost_doktora_vinnetouologie_026.html",
+    "posetilost_doktora_vinnetouologie_027.html",
+    "posetilost_doktora_vinnetouologie_028.html",
+    "posetilost_doktora_vinnetouologie_029.html",
+    "posetilost_doktora_vinnetouologie_030.html",
+    "posetilost_doktora_vinnetouologie_031.html",
+    "posetilost_doktora_vinnetouologie_032.html",
+    "posetilost_doktora_vinnetouologie_033.html",
+    "posetilost_doktora_vinnetouologie_034.html",
+    "posetilost_doktora_vinnetouologie_035.html",
+    "posetilost_doktora_vinnetouologie_036.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu May 19 2022 09:06:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652951215797
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "posetilost_doktora_vinnetouologie_005.html",
+      "toc": []
+    },
+    {
+      "title": "Porta",
+      "file": "posetilost_doktora_vinnetouologie_005.html",
+      "words": 1411,
+      "chars": 8189,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "posetilost_doktora_vinnetouologie_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Porta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lopatkiáda",
+      "file": "posetilost_doktora_vinnetouologie_006.html",
+      "words": 544,
+      "chars": 3338,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 2,
+      "prev": "posetilost_doktora_vinnetouologie_005.html",
+      "next": "posetilost_doktora_vinnetouologie_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lopatkiáda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mlha",
+      "file": "posetilost_doktora_vinnetouologie_007.html",
+      "words": 421,
+      "chars": 2342,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 3,
+      "prev": "posetilost_doktora_vinnetouologie_006.html",
+      "next": "posetilost_doktora_vinnetouologie_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mlha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kotva",
+      "file": "posetilost_doktora_vinnetouologie_008.html",
+      "words": 1157,
+      "chars": 7168,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 4,
+      "prev": "posetilost_doktora_vinnetouologie_007.html",
+      "next": "posetilost_doktora_vinnetouologie_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kotva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dědek",
+      "file": "posetilost_doktora_vinnetouologie_009.html",
+      "words": 522,
+      "chars": 3187,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 5,
+      "prev": "posetilost_doktora_vinnetouologie_008.html",
+      "next": "posetilost_doktora_vinnetouologie_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dědek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Labuť",
+      "file": "posetilost_doktora_vinnetouologie_010.html",
+      "words": 564,
+      "chars": 3242,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 6,
+      "prev": "posetilost_doktora_vinnetouologie_009.html",
+      "next": "posetilost_doktora_vinnetouologie_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Labuť",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mlýn",
+      "file": "posetilost_doktora_vinnetouologie_011.html",
+      "words": 549,
+      "chars": 3233,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 7,
+      "prev": "posetilost_doktora_vinnetouologie_010.html",
+      "next": "posetilost_doktora_vinnetouologie_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mlýn",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak se vyhnout kopcům",
+      "file": "posetilost_doktora_vinnetouologie_012.html",
+      "words": 600,
+      "chars": 3526,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 8,
+      "prev": "posetilost_doktora_vinnetouologie_011.html",
+      "next": "posetilost_doktora_vinnetouologie_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak se vyhnout kopcům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Index",
+      "file": "posetilost_doktora_vinnetouologie_013.html",
+      "words": 391,
+      "chars": 2233,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 9,
+      "prev": "posetilost_doktora_vinnetouologie_012.html",
+      "next": "posetilost_doktora_vinnetouologie_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Index",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zoja",
+      "file": "posetilost_doktora_vinnetouologie_014.html",
+      "words": 823,
+      "chars": 4986,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 10,
+      "prev": "posetilost_doktora_vinnetouologie_013.html",
+      "next": "posetilost_doktora_vinnetouologie_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zoja",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Roudnické rosé",
+      "file": "posetilost_doktora_vinnetouologie_015.html",
+      "words": 1158,
+      "chars": 6660,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 11,
+      "prev": "posetilost_doktora_vinnetouologie_014.html",
+      "next": "posetilost_doktora_vinnetouologie_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Roudnické rosé",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doktor vinnetouologie",
+      "file": "posetilost_doktora_vinnetouologie_016.html",
+      "words": 1127,
+      "chars": 6783,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 12,
+      "prev": "posetilost_doktora_vinnetouologie_015.html",
+      "next": "posetilost_doktora_vinnetouologie_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doktor vinnetouologie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plukovník Ripl",
+      "file": "posetilost_doktora_vinnetouologie_017.html",
+      "words": 537,
+      "chars": 3419,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 13,
+      "prev": "posetilost_doktora_vinnetouologie_016.html",
+      "next": "posetilost_doktora_vinnetouologie_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Plukovník Ripl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Praxe",
+      "file": "posetilost_doktora_vinnetouologie_018.html",
+      "words": 529,
+      "chars": 3189,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 14,
+      "prev": "posetilost_doktora_vinnetouologie_017.html",
+      "next": "posetilost_doktora_vinnetouologie_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Praxe",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jana",
+      "file": "posetilost_doktora_vinnetouologie_019.html",
+      "words": 589,
+      "chars": 3351,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 15,
+      "prev": "posetilost_doktora_vinnetouologie_018.html",
+      "next": "posetilost_doktora_vinnetouologie_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jana",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krásný večírek",
+      "file": "posetilost_doktora_vinnetouologie_020.html",
+      "words": 996,
+      "chars": 5956,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 16,
+      "prev": "posetilost_doktora_vinnetouologie_019.html",
+      "next": "posetilost_doktora_vinnetouologie_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krásný večírek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ruka",
+      "file": "posetilost_doktora_vinnetouologie_021.html",
+      "words": 717,
+      "chars": 4094,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 17,
+      "prev": "posetilost_doktora_vinnetouologie_020.html",
+      "next": "posetilost_doktora_vinnetouologie_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ruka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Monika",
+      "file": "posetilost_doktora_vinnetouologie_022.html",
+      "words": 788,
+      "chars": 4482,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 18,
+      "prev": "posetilost_doktora_vinnetouologie_021.html",
+      "next": "posetilost_doktora_vinnetouologie_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Monika",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svatba",
+      "file": "posetilost_doktora_vinnetouologie_023.html",
+      "words": 984,
+      "chars": 5954,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 19,
+      "prev": "posetilost_doktora_vinnetouologie_022.html",
+      "next": "posetilost_doktora_vinnetouologie_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svatba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vaňov",
+      "file": "posetilost_doktora_vinnetouologie_024.html",
+      "words": 488,
+      "chars": 2921,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 20,
+      "prev": "posetilost_doktora_vinnetouologie_023.html",
+      "next": "posetilost_doktora_vinnetouologie_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vaňov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na Mariánské skále",
+      "file": "posetilost_doktora_vinnetouologie_025.html",
+      "words": 542,
+      "chars": 3319,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 21,
+      "prev": "posetilost_doktora_vinnetouologie_024.html",
+      "next": "posetilost_doktora_vinnetouologie_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na Mariánské skále",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Aura",
+      "file": "posetilost_doktora_vinnetouologie_026.html",
+      "words": 505,
+      "chars": 2969,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 22,
+      "prev": "posetilost_doktora_vinnetouologie_025.html",
+      "next": "posetilost_doktora_vinnetouologie_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Aura",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svatební cesta",
+      "file": "posetilost_doktora_vinnetouologie_027.html",
+      "words": 730,
+      "chars": 4261,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 23,
+      "prev": "posetilost_doktora_vinnetouologie_026.html",
+      "next": "posetilost_doktora_vinnetouologie_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svatební cesta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bar",
+      "file": "posetilost_doktora_vinnetouologie_028.html",
+      "words": 555,
+      "chars": 3124,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 24,
+      "prev": "posetilost_doktora_vinnetouologie_027.html",
+      "next": "posetilost_doktora_vinnetouologie_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bar",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cirkus",
+      "file": "posetilost_doktora_vinnetouologie_029.html",
+      "words": 489,
+      "chars": 2826,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 25,
+      "prev": "posetilost_doktora_vinnetouologie_028.html",
+      "next": "posetilost_doktora_vinnetouologie_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cirkus",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šachy",
+      "file": "posetilost_doktora_vinnetouologie_030.html",
+      "words": 677,
+      "chars": 3829,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 26,
+      "prev": "posetilost_doktora_vinnetouologie_029.html",
+      "next": "posetilost_doktora_vinnetouologie_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šachy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lustr",
+      "file": "posetilost_doktora_vinnetouologie_031.html",
+      "words": 1127,
+      "chars": 6328,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 27,
+      "prev": "posetilost_doktora_vinnetouologie_030.html",
+      "next": "posetilost_doktora_vinnetouologie_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lustr",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hospoda",
+      "file": "posetilost_doktora_vinnetouologie_032.html",
+      "words": 802,
+      "chars": 4708,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 28,
+      "prev": "posetilost_doktora_vinnetouologie_031.html",
+      "next": "posetilost_doktora_vinnetouologie_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hospoda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Automaty",
+      "file": "posetilost_doktora_vinnetouologie_033.html",
+      "words": 470,
+      "chars": 2725,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 29,
+      "prev": "posetilost_doktora_vinnetouologie_032.html",
+      "next": "posetilost_doktora_vinnetouologie_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Automaty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Magistři",
+      "file": "posetilost_doktora_vinnetouologie_034.html",
+      "words": 553,
+      "chars": 3326,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 30,
+      "prev": "posetilost_doktora_vinnetouologie_033.html",
+      "next": "posetilost_doktora_vinnetouologie_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Magistři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stříbrný vítr",
+      "file": "posetilost_doktora_vinnetouologie_035.html",
+      "words": 513,
+      "chars": 2876,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 31,
+      "prev": "posetilost_doktora_vinnetouologie_034.html",
+      "next": "posetilost_doktora_vinnetouologie_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stříbrný vítr",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přilba",
+      "file": "posetilost_doktora_vinnetouologie_036.html",
+      "words": 606,
+      "chars": 3319,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 32,
+      "prev": "posetilost_doktora_vinnetouologie_035.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přilba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 119,
+      "chars": 799,
+      "ideas": 15,
+      "role": "colophon",
+      "order": null,
+      "prev": "posetilost_doktora_vinnetouologie_036.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 22590,
+      "chars": 132720,
+      "ideas": 372
+    },
+    "chapters": {
+      "words": 22464,
+      "chars": 131863,
+      "ideas": 353
+    }
+  }
+}
