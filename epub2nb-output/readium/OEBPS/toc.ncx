@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Pošetilost doktora vinnetouologie</text>
+  </docTitle>
+  <docAuthor>
+    <text>Martin Fahrner</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Porta</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Lopatkiáda</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_006.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Mlha</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_007.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Kotva</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_008.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Dědek</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_009.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Labuť</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_010.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Mlýn</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_011.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>Jak se vyhnout kopcům</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_012.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_013.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>Zoja</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_014.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>Roudnické rosé</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_015.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>Doktor vinnetouologie</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_016.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>Plukovník Ripl</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_017.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>Praxe</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_018.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>Jana</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_019.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>Krásný večírek</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_020.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>Ruka</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_021.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>Monika</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_022.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navpoint19" playOrder="19">
+      <navLabel>
+        <text>Svatba</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_023.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navpoint20" playOrder="20">
+      <navLabel>
+        <text>Vaňov</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_024.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navpoint21" playOrder="21">
+      <navLabel>
+        <text>Na Mariánské skále</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_025.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>Aura</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_026.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navpoint23" playOrder="23">
+      <navLabel>
+        <text>Svatební cesta</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_027.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navpoint24" playOrder="24">
+      <navLabel>
+        <text>Bar</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_028.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>Cirkus</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_029.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navpoint26" playOrder="26">
+      <navLabel>
+        <text>Šachy</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_030.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navpoint27" playOrder="27">
+      <navLabel>
+        <text>Lustr</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_031.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navpoint28" playOrder="28">
+      <navLabel>
+        <text>Hospoda</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_032.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navpoint29" playOrder="29">
+      <navLabel>
+        <text>Automaty</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_033.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navpoint30" playOrder="30">
+      <navLabel>
+        <text>Magistři</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_034.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navpoint31" playOrder="31">
+      <navLabel>
+        <text>Stříbrný vítr</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_035.xhtml#_idParaDest-31"/>
+    </navPoint>
+    <navPoint id="navpoint32" playOrder="32">
+      <navLabel>
+        <text>Přilba</text>
+      </navLabel>
+      <content src="Text/posetilost_doktora_vinnetouologie_036.xhtml#_idParaDest-32"/>
+    </navPoint>
+  </navMap>
+</ncx>
