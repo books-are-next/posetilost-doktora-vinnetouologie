@@ -3,7 +3,7 @@ title: Lustr
 contentType: prose
 ---
 
-  
+<section>
 
 Jednou zase Monice a Dědkovi pomáhal Bláha s Markétou. Jenže když ji koupal před spaním, zrovna když ji vytáhl z vany a chystal se ji zabalit do osušky, se náhle zablesklo, Bláhu něco s třesknutím udeřilo do hlavy a byla tma. V prvním okamžiku nevěděl, jestli nenastal konec světa, jestli už třeba nemá po smrti, ale pak se vzpamatoval a rozrazil dveře do kuchyně, takže se v koupelně udělalo alespoň šero, a Bláha viděl, že na zemi se válí tyčka z lustru a spousta střepů ze stínidla a pod těmi střepy je kaluž krve a v té kaluži leží Markéta. Popadl ji do náruče a utíkal s ní k nemocnici, běžel s Markétou v náručí a cítil, jak mu skrz oblečení prosakuje krev.
 
@@ -42,3 +42,5 @@ Ten den se naneštěstí potkala u nás s Bláhou a plná zoufalství na něj
 Bláhu, který byl z nejhoršího venku, prohnul zase do oblouku ten proud, zase cítil tu bolest jako z vysokého napětí. Utíkal do hospody Na Hnátě a pak dolů, do strašlivého pajzlu v Moskevské ulici a poroučel si rum, a když tu hospodu v noci zavírali, koupil si ještě lahev na cestu, seděl s ní v altánku uprostřed parku, pil a křičel na nebe, ať ho té hrůzy zbaví.
 
 Lidi ho našli ráno cestou do práce, a i když ho převezli do ústecké nemocnice, zůstala mu po mrtvici ochrnutá jedna tvář, na stejné straně, na které měla jizvu Markéta. A někam do dáli, mimo náš prostor a čas, anebo kdoví, možná na někoho, kdo se nakonec nad Bláhou smiloval, zůstávalo stále upřené jedno jeho oko.
+
+</section>

@@ -3,7 +3,7 @@ title: Mlýn
 contentType: prose
 ---
 
-  
+<section>
 
 Když jsem se plný naděje přistěhoval do Ústí na kolej, rozmisťovaly se po Evropě rakety. V Německu je rozváželi Američani a neobešlo se to bez velikých protestů. A u nás zase Rusové. Aby se to bez protestů obešlo, komunistické buňky ve fabrikách a na školách organizovaly petice a podpisové archy a večer ve zprávách pak hlásili, že už osmdesát procent obyvatelstva doručilo vládě svou podporu.
 
@@ -16,3 +16,5 @@ Nejraději jsem jezdíval za Hřensko, do soutěsek řeky Kamenice, do jednoho m
 To se jen těžko dostávalo dolů do soutěsek. Často se ještě koncem jara na některých místech držel sníh a led. Jednou mi něco káplo na nos, a když jsem se podíval nahoru, zjistil jsem, že seshora, kde už sníh rychle tál, stékají po skále stružky vody. Dolů ale nedotekly. V chladu soutěsky pomalu tuhly a nakonec se proměnily v led na úpatí skály, která se leskla, až připomínala skleněnou horu. Přitiskl jsem obličej k ledu a doufal, že tím ledem prostoupím, nebo si mne alespoň nějaká víla na druhé straně všimne a otře mi čelo kouzelným šátkem, který zahání starosti. Začal mne studit nos a rty, všechno mě záblo, ale vydržel jsem to a nakonec byl do ledu vytátý celý můj obličej. Dlouho jsem se díval, jak do prohlubně vtékají další mrznoucí kapky a obrys se pomalu ztrácí, až se rozplynul docela. Teprve potom jsem se vytrhl ze snění. Byl tak akorát čas stihnout poslední vlak.
 
 Sedl jsem si na zem na malém nádraží uprostřed lesa, čekal, až přijede vlak, a moje myšlenky se vracely ke skleněné hoře. Náhle ve mně hrklo, když z toho liduprázdného lesa vyšlo děvče v květovaných šatech. Mám ji snad považovat za bytost, kterou mi posílá do cesty ledová víla?
+
+</section>

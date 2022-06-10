@@ -3,7 +3,7 @@ title: Bar
 contentType: prose
 ---
 
-  
+<section>
 
 Na podzim se ve školství začaly chystat změny, pár lidí muselo odejít a velká spousta lidí se bála, že je bude následovat. Dědek se po dlouhé době dojíždění do Lovosic zúčastnil na jedné ústecké základce konkurzu a stal se nejmladším ředitelem školy v okrese.
 
@@ -22,3 +22,5 @@ Já si byl jistý, že i kdybych ho nakrásně vzal, brzo by přišla inspekce.
 Prochodil jsem celou noc, bloudil Ústím sem a tam a pokaždé se vracel na stejné místo – kde se naposledy objevila Zoja. Prosil jsem ji o radu, ale marně.
 
 Pak jsem se vzdal. Něco ve mně přestalo řvát. Bylo mi jedno, že mám kruhy pod očima, všechno mi bylo jedno. Jen jsem Dědkovi zopakoval, že ho nepřijmu, dokud nepřijde střízlivý a oholený, a Dědek se mnou pak nepromluvil dlouhou řadu let.
+
+</section>

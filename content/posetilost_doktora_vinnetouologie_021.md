@@ -3,7 +3,7 @@ title: Ruka
 contentType: prose
 ---
 
-  
+<section>
 
 Dědek strávil s Monikou ještě jednu noc. Vrátili jsme se do Ústí a Bláhovi pusa později úplně splaskla, jen spodní čelist zůstala trochu vyviklaná. Hlavně zpočátku stačilo, aby se zakousl třeba do tvrdšího rohlíku, a musel si ji rukou vracet zpátky. Bláhu to štvalo, i když to šlo docela lehce. A ještě po letech, když měl rande se svou budoucí ženou a poprvé se ji pokusil políbit, tu romantickou chvíli přerušilo tlumené lupnutí a Bláha stál proti své milované s čelistí skoro na rameni.
 
@@ -24,3 +24,5 @@ Užuž to vypadalo, že nám musí dojít síly, ale s plným tempem jsme době
 Jak jsme mohli pochopit Zoju, když říkala, že svět nám nebude pořád jenom dávat, že za nás všechny průšvihy nebudou pořád řešit rodiče, ale že si jednoho dne z nás začne brát, nekompromisně a nezadržitelně, protože z toho, co si z nás vezme, dobrého nebo zlého, z toho právě je složený ten svět. Nemohli jsme to pochopit, i kdybychom se zahrabali třeba po pás do země, dokud jsme byli skálopevně přesvědčení, že svět je nařízený na naše oktanové číslo.
 
 Někdy, když jsem donucen rozhýbat své tělo, třeba když mi ujíždí ranní tramvaj, snažím se zoufale oživit ten pocit, kdy jsme se řítili stráněmi Kamýku dolů. Je to čím dál těžší, protože té trochu hloupé, naivní a pošetilé víře, že svět je seřízen na naše oktanové číslo, se také jinak říká mládí.
+
+</section>

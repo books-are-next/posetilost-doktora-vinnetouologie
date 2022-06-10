@@ -3,7 +3,7 @@ title: Vaňov
 contentType: prose
 ---
 
-  
+<section>
 
 Za to, že plukovník Ripl jel se Zojou na její mašině až na daleké Slovensko, mu profesorka slíbila, že s ním stráví Štědrý večer, ovšem s podmínkou, že si nedají žádné dárky.
 
@@ -20,3 +20,5 @@ Zoja zemřela v sedle té motorky koncem ledna, uprostřed dopravní zácpy. By
 Ke křižovatce dojela, jenže když dávala nohu na zem, nedošlápla na asfalt pražské silnice, ale udělala první krok na onen svět.
 
 Když později na součástkách její mašiny už nebylo co vypucovat, pokusil se plukovník Ripl sestavit stroj zase zpátky, jako ostatně všechny motory letadel a vrtulníků. Poté co pochopil, že nedokáže jedinou památku na Zoju uvést zpátky do chodu, vzal svůj služební revolver, jedinou zbraň s nezaletovanou hlavní na celé katedře, nabil ho jedním ostrým nábojem a v Schichtově ložnici obložené ořechem se zastřelil.
+
+</section>

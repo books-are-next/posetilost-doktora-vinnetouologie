@@ -3,7 +3,7 @@ title: Praxe
 contentType: prose
 ---
 
-  
+<section>
 
 Bylo jaro, poslední jaro, které s námi Dědek studoval na fakultě, i když už nechodil na přednášky a na semináře jako my, ale docházel na ústecké gymnázium v Jateční ulici na praxi. Měl obrovský přehled a navíc okouzloval svými naškrobenými košilemi, takže mu ještě během té praxe nabídli místo, a dokonce by mu zařídili odklad nástupu na vojnu.
 
@@ -16,3 +16,5 @@ Dědek měl s tímhle tématem velký problém, protože chodil čtyři semestr
 Jenže studenti během hodiny vyrušovali trochu víc než obvykle a Dědek se tím nechal vyvést z míry. Vyvolal jednoho studenta a zeptal se, proč ho látka nezajímá. „Protože nám stejně neříkáte, jak to bylo doopravdy.“ A všechny ty hodiny na seminářích u Zoji a taky vlastně celá vinnetouologie, které byl Dědek doktorem, se najednou vzepřely. Když s ním ten mladík mluví tak upřímně a když to vypadá, že studenti ještě mají nějaké ideály, nechtěl být Dědek někým, kdo je o ně připraví, a začal nanovo. Ve třídě by bylo slyšet špendlík. Nikdo ani nedutal a na konci hodiny se dočkal potlesku. Jenže ne všichni asi měli ideály, protože jeden z těch studentů Dědka udal ředitelce gymnázia a ta si ho zavolala na příští den do kanceláře. Když zaťukal a vešel, spatřil vedle ředitelky proděkana Krátkého. A tak nejenže přišel o slíbené místo na gymplu a slíbený odklad vojny, ale při státnicích neprošel přes katedru marxismu.
 
 A ještě než se Dědek vzpamatoval a ještě než se vzpamatovala Monika, se kterou se usilovně snažili mít miminko, dostal povolávací rozkaz do vojenského učiliště v Liptovském Mikuláši, kde měl rok učit budoucí důstojníky dějepis. Když se po roce vrátil, nesehnal v Ústí místo a dojížděl na učňák až do Lovosic.
+
+</section>

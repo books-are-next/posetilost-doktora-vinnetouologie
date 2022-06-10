@@ -3,7 +3,7 @@ title: Jana
 contentType: prose
 ---
 
-  
+<section>
 
 Opravný termín státnic měl Dědek začátkem září, ale velitel vojenského učiliště ho nechtěl pustit, protože to považoval za soukromou věc. V září se navíc naplno rozjížděla na učilišti výuka a přišla spousta patnáctiletých prváků. Těžko si zvykali na vojenské prostředí, byla s nimi práce. Dědek, který s nimi tu práci měl, si samozřejmě také těžko zvykal, že má místo bílých košil najednou zelené, i když Bláha tvrdil, že zrovna jemu by nemělo dělat problém rovnat si věci pěkně do komínku. Kromě toho chodil do služeb na bráně a v noci hlídal autopark nebo muniční sklad jako každý jiný voják, takže často kolem nich prochodil celou noc s nabitou pistolí za pasem a skripty v ruce, protože jindy by se k učení nedostal.
 
@@ -18,3 +18,5 @@ Teprve potom jsem si uvědomil, že jsem si vůbec nic nevzal, ale neměl jsem �
 Večeřeli jsme před prkennou boudou na skalní plošince. Pro­fukovalo a Jana se zeptala, jestli nezmrznu bez spacáku a jestli se s ní nechci o ten její rozdělit. Smála se, že to není nemravný návrh, protože dva se v tak malém spacáku určitě nedokážou ani hnout. Měla pravdu, ale mně stejně hučelo celou noc štěstím ve spáncích, protože jsem ji mohl držet v náručí, a teprve k ránu jsem si trochu zdříml. Když jsem se probudil, uviděl jsem ji pootevřenými dveřmi, jak stojí na plošině před boudou, skoro na špičkách, ruce vysoko nad hlavou a v těch rukách svoje šaty, které se třepotaly ve větru.
 
 Vítr byl silný, dalo práci šaty udržet a Jana měla zavřené oči. Neotevřela je, ani když jsem vstal a obemkl ji zezadu rukama. Pak jsem jen stál a cítil, jak s námi cloumají sem a tam poryvy větru, jak se šaty třepotají ve větru, a bylo mi, jako by mne unášel nahoru nějaký vír.
+
+</section>

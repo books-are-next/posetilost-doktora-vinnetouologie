@@ -3,7 +3,7 @@ title: Zoja
 contentType: prose
 ---
 
-  
+<section>
 
 Z pedagogů se mne zastala jedině Zoja. To byla vedoucí našeho kruhu, něco jako třídní učitel. Mezi čtyřma očima mi řekla, že je Krátký naprostý idiot. Potěšilo mne to, ačkoli přesně tohle říkala Zoja o kaž­dém. Když se s námi na začátku prvního semestru poprvé setkala, rozhlédla se po učebně a komentovala poměr mezi chlapci a dívkami takhle: „Zase samý slepice.“ Chmurně se rozhlédla po lavicích a spustila: „Jmenuji se Zoe Žáčková a tohle blbý jméno jsem si nevybrala sama. Kdyby bylo podle mého, vybrala bych si asi něco lepšího, třeba Brigitte Bardot nebo Marilyn Monroe. Ale teď mi je pětapadesát a už je to stejně fuk. Budu vám přednášet staroslověnštinu a později staročeštinu a ještě později historický vývoj jazyka. Většina z vás přese mne na zkouškách dříve či později neprojde a bude si muset najít jinou práci, přiměřenější velikosti orgánu, který nosíte v hlavách.“ Varovali nás, že budeme mít za třídní starou, ironickou bábu, která jezdí na třiapůle, ale tohle jsme nečekali.
 
@@ -20,3 +20,5 @@ A tak jsem spal na letišti vedle Dědka, a když jsem něco chtěl, Dědek d�
 Na Dědkovu radu jsem si vybral předtermín, abych mohl jít brzy na opravné termíny a z toho učiva nevyšel. Seděl jsem před Zojou, byla ve mně malá dušička a nespustil jsem z ní oči. Když si toho všimla, zachechtala se a spustila: „Ságnere, fakulta je plná roztoužených mladých slečen, které jen čekají, až na nich spočine váš mírně přiblblý zrak. Kdybyste lépe zaostřil, nemohl byste přehlédnout, že před vámi sedí stará bába, která smrdí kouřem, a tudíž není potřeba se na ni dívat jako na svatej obrázek. Honem si vytáhněte otázku, nebo spolu někam uletíme na růžovým obláčku!“
 
 Zoja mě zkoumala ze všech stran a já najednou pochopil, jak geniální byl Dědkův návrh, abychom to učivo probírali nahlas: hned po jejím dotazu jsem slyšel v uších precizní Dědkovy formulace. Zoja se na mne nakonec podívala a udiveně konstatovala: „Nižší formy života neměly mozek, ale řadu nervových uzlin po celém těle. Pak se ale některé začaly v hlavě zvětšovat a vytvořily mozek. Tenhle proces by se měl opakovat u každého člověka v embryu, ale při pohledu na některé studenty bych za to ruku do ohně nedala. Ale s vašimi uzlinami, Ságnere, se možná něco slibného děje!“ Vytrhla mi z ruky index, napsala do něj dvojku a já se v mrákotách vypotácel ze dveří.
+
+</section>
