@@ -3,7 +3,7 @@ title: Doktor vinnetouologie
 contentType: prose
 ---
 
-  
+<section>
 
 Jaro bylo v plném proudu, když mi Dědek vzkázal, že se mám dostavit na zkoušku z vinnetouologie. Měl jsem všechny zkoušky hotové a mohl v Mayovi ležet celé dny a noci, ale nakonec jsem svých znalostí nevyužil. Když jsem totiž podruhé v životě uviděl přístavní krčmu Na Kotvě, vyšňořenou bílými ubrusy, a proklouzl dírou za výčepem v černém obleku do Žumpy, oznámil mi Dědek jménem zkušební komise, že mi udělují čestný doktorát za morální bezúhonnost a přínos světové vinnetouologii. Nechápal jsem, co to má znamenat, ale už mi podávali přes stůl certifikát.
 
@@ -28,3 +28,5 @@ Nevěděli jsme. „Ani jeden. Nikdo,“ dodala nakonec.
 Zoja nám toho chtěla ten večer říct daleko víc, protože nikoho neměla. Třeba jak zestárla během přednášek a seminářů, během toho pašování alternativy do marxistických líhní. Že ví, že je stará a ošklivá a že začíná být protivná z toho zoufalýho pocitu, že to možná bylo zbytečný. A že se přitom kdysi taky chtěla líbit, jako každá jiná holka, ale že teď je to najednou pryč, definitivně. A že má stejně strach z toho slova definitivně, i když věří, že smrtí všechno nekončí, jak se koneckonců píše ve všech starých textech. Protože se ale dlouho takhle nikomu nesvěřila, měla strach a pořád to odkládala, a raději si dávala další a další panáky na kuráž a při tom mlela hlouposti, o kterých mluvit vůbec nechtěla. A když si nakonec řekla „teď, anebo nikdy“, tak se jí jazyk zamotal a nedokázala nic jiného než si pořád dokola broukat: „Až já budu velká, budu učitelka.“
 
 Když se nakonec pokusila vstát, tak to nešlo, a Bláha jí musel pomáhat a nakonec jsme Zoju odtáhli až k její motorce. Bylo nad ránem a chladný vzduch profesorku trochu vzpamatoval, ale Bláha přesto trval na tom, že ji odveze sám. Když už motor běžel, zahuhlala stará dáma, že chce odvézt na vaňovskou katedru. Nerozuměli jsme tomu, protože na Vaňově sídlila vojenská katedra naší fakulty, ale touhle dobou tam nikdo nebyl, jenom sklady součástek z rozebraných vrtulníků, které hlídal nahluchlý plukovník Ripl. Když na tom ale Zoja trvala, Bláha zaburácel a vyrazil. Zoja dlouho takhle neobjímala mužskýho. Pochechtávala se a přitom si broukala to své: „Až já budu velká, budu učitelka.“
+
+</section>

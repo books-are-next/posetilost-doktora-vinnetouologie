@@ -3,7 +3,7 @@ title: Magistři
 contentType: prose
 ---
 
-  
+<section>
 
 Jednoho dne přišel oběžník, že v rámci změn ve školství budou naše staré tituly nahrazeny jednotným titulem „magistr“. Byl pátek, Bláha za mnou přiběhl do školy a měl obě oči navrch hlavy. Ptal se mne, jestli chápu, že je to pro nás hrozně důležitý, zásadně, existenčně důležitý. Zase po dlouhé době strašně křičel, a když o nás mluvil jako o vinnetouolozích, tajemnice na mne přes stůl udiveně koukala.
 
@@ -20,3 +20,5 @@ Díval jsem se na ni, překonával mrákoty a Bláha mezitím sehnal někoho s�
 Jen dva z doktorů se nesmáli. Jenže ti dva nejvíc zvětšovali moje muka: byli to rodiče mých žáků a dobře věděli, že tenhle vůl je ředitelem školy.
 
 Dostal jsem domů nějaké prášky na bolest, ale nepomáhaly. Nespal jsem skoro celou noc, a když jsem konečně k ránu trochu zaspal, zdálo se mi o Hrdličkovi. Chodil kolem mne, říkal pořád dokola „Dobrý den, pane řediteli, dobrý den slovutný pane řediteli…“ a v očích měl strašlivý výsměch. Bylo mi jasné, že jestli se to donese Hrdličkovi, má mne na lopatě.
+
+</section>

@@ -3,7 +3,7 @@ title: Automaty
 contentType: prose
 ---
 
-  
+<section>
 
 Dědkovi do baru nainstalovali hrací automaty. Tou dobou u nás v Ústí rostly nové hospody jak houby po dešti a automaty měly přilákat ubývající konzumenty. Jenže i v ostatních podnicích se objevily hrací automaty, takže do baru k Dědkovi se zákazníci nevrátili. A tak si začal hrát s automaty sám. Zpočátku jen sem tam pro ukrácení chvíle, ale nakonec jim úplně propadl.
 
@@ -18,3 +18,5 @@ Najednou se v něm ozval řev, stará bolest ubíjená spoustou pa­náků a v
 Bylo mu, jako kdyby po dlouhé době otevřel oči. Běžel domů, potichu, aby nevzbudil Markétu a Moniku, vytáhl plechovou lopatku s nápisem Rossignol a z jeho čerstvě otevřených očí se plavily slzy. Přes slzy člověk vidí rozmazaně, ale přitom dál a lépe než obvykle. Dědek najednou viděl, že byl na sebe kdysi hrdý, když se dokázal zapřít kvůli Monice a vrátit se k ní a vydržet celou dobu, kdy byla jako vyhořelá a místo vděku ho zahrnovala apatií. Tehdy si myslel, že první a jediný pochopil, co po nás chtěla Zoja, a že je nejlepší ze všech vinnetouologů.
 
 Několik chvil postál nad spící Monikou. Díval se na ni a v jeho očích najednou byla ženou na vrcholu. Proč? Protože dělá už několik let, co jsem já vydržel několik dní. Protože se kvůli mně překonává. Dědek sevřel vší silou pěsti, ani nevnímal, že stále drží v ruce starou plechovou lopatku, a musel na vzduch, musel chodit, vychodit se z toho, vyběhat, musel ven.
+
+</section>

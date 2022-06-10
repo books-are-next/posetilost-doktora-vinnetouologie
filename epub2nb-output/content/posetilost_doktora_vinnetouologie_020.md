@@ -3,7 +3,7 @@ title: Krásný večírek
 contentType: prose
 ---
 
-  
+<section>
 
 Bláhovi zbyla z letní brigády do začátku semestru trocha peněz a moc ho mrzelo, že jsme nemohli s Dědkem oslavit za ty peníze státnice. Moc ho mrzelo, že mu nemůže oplatit výlet s růžovým roudnickým. Jednou přilítl celý rozzářený a řval už z dálky, že má úžasnej plán. Ten den na nástěnkách vedle děkanátu vyvěsili termíny povinných kurzů a Bláha tam vyčetl, že pojedeme s katedrou tělocviku koncem září do Tater a budeme bydlet v kempu u Liptovské Mary, kousek od Dědkova učiliště. Těsně před odjezdem dokonce katedra přibírala několik studentů na doplnění volných míst, takže s námi mohla jet i Monika.
 
@@ -38,3 +38,5 @@ Vyrazili jsme s obavami, sestřička se od Bláhy nehnula na krok, připravená
 Teprve když jsme se blížili k nejvyššímu bodu výpravy a stoupali svahem prudce do Priečného sedla, začal ztrácet dech, přestal mluvit a přestal se po nás ohlížet. Zdálo se, jako by měl oči zabodnuté do jednoho bodu, do hýždí budoucí sestřičky, která stoupala do prudkého svahu těsně před ním.
 
 Když se mu podařilo vydrápat v tomhle stavu do sedla, trval Dědek na tom, že musí dát tu jeho směs na rozbor, že možná Bláha mimoděk objevil něco užitečného pro lidstvo. Ale Bláha držel ešus pevně a místo toho začal najednou huhlavě, ale s nadšením popisovat určité partie na těle budoucí zdravotnice s tím závěrem, že by se ani se dvěma ešusy své kaše nevydrápal nahoru, nebýt „toho odvěkého chtíče“.
+
+</section>

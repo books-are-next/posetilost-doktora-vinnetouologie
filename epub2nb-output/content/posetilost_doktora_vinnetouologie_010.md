@@ -3,7 +3,7 @@ title: Labuť
 contentType: prose
 ---
 
-  
+<section>
 
 Dědek nakonec neměl sílu Bláhu vyhodit a kolo si s Monikou nechali. Udělalo mi to obrovskou radost. Věděl jsem, jakou práci dá Monice prát pořád dokola Dědkovy aristokratické košile, ale fandil jsem Bláhovi, protože jsem s ním zažil něco, co mě k tomu nutilo. Stalo se to na začátku zimy u železničního mostu, přes který se chodí z města na střekovskou stranu, kde jsme v lázních kousek nad Setuzou mívali plavání.
 
@@ -18,3 +18,5 @@ Když se totiž Bláha sklonil nad labutí, zvedla se a s hýkáním odlezla p
 Musel se cítit hrozně ponížený, protože ho úplně opustila odvaha. Nazpátek nešel krok sun krok o závod s bublinkami, ale lehl si na led a plazil se ledovou břečkou. Vydrápal se na břeh a nezastavil, minul mne a utíkal pryč. Hnal jsem se za ním a dohonil ho v hospodě U Karla Čtvrtého. U výčepu do sebe lil vodku z dvoudecové skleničky a brečel.
 
 Najednou mi došlo, že jako se já pořád snažím najít v Ústí ten svůj vysněný svět, stejně se snaží i Bláha. Zarputile se snaží přijít na to, jak žít a neprohrát, nepromarnit šanci. Už jsme byli dospělí, už jsme sami rozhodovali o svých krocích, ale dost často jsme v duchu křičeli z té zodpovědnosti hrůzou. Museli jsme si přiznat, že nevíme, že jenom tápeme hned sem a hned zase tam. Nikdy jsem nikomu o Plzni nevyprávěl, až Bláhovi nad dlouhou řadou jeho milovaných fernetů a popelníkem plným vykroucených filtrů. Ta vzájemnost, ty věty úzkosti v nás probudily alespoň na chvíli obrovskou odvahu žít. Opili jsme se a Bláha tančil a už zase měl sílu křičet, že život je nejkrásnější, když se všechno chvěje jako pod vysokým napětím, když tančíš mezi spadnutými dráty vteřinu před tím, než se rozhodne, jestli se rozzáříš, nebo shoříš, vteřinu před tím, než ti nápor povyráží všechny jističe.
+
+</section>

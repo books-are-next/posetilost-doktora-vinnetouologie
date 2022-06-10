@@ -3,7 +3,7 @@ title: Jak se vyhnout kopcům
 contentType: prose
 ---
 
-  
+<section>
 
 Neodvážil jsem se tenkrát tu neznámou oslovit. Ale přestat na ni myslet jsem také nedokázal. A vyčítal jsem si tu svoji neschopnost. Strašně jsem si ji vyčítal a vracel se na to nádraží a doufal, že se ještě někdy objeví a já budu statečnější.
 
@@ -28,3 +28,5 @@ Zanedlouho už svorně ležíme na kamenech vyhřátých sluncem, nad námi na v
 Dodnes si pamatuji každý detail výletu, který se vyhýbal všem kopcům. Přehrávám si ho jako film pokaždé, když mi je z něčeho úzko. Třeba z toho, že nemám čas na rozmyšlenou a musím rovnou skočit na tenký led. Čím jsem starší, tím více hledám odvahu, protože už jsem viděl hodně lidí, kteří se tváří v tvář něčemu hroznému zastavili a bublinky pod jejich nohama začaly zděšeně utíkat na všechny strany.
 
 Právě v takových chvílích si pouštím na zavřená víčka obrázky s lopuchy a někdy pak jako kouzlem cítím zase to klidné štěstí, které je v těch spáčích asi navěky uložené.
+
+</section>

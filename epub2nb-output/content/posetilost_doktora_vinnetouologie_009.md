@@ -3,7 +3,7 @@ title: Dědek
 contentType: prose
 ---
 
-  
+<section>
 
 Obdivovaný titul ViDr. měl Dědek na dveřích garsonky. Jeho tatínek byl hlavním architektem města, a když začal Dědek studovat na fakultě češtinu a dějepis, nebyl problém zařídit mu bydlení poblíž školy. Nešlo o přepych, spíše o satisfakci za to, že kvůli svým rodičům nesměl studovat v Praze, odkud se museli kdysi z politických důvodů stáhnout do pohraničí.
 
@@ -20,3 +20,5 @@ Zapovídali jsme se, a přeslechli dokonce rány na schodech, po kterých Bláh
 Zaslechli jsme zvonek a Dědek opatrně otevřel. Záhy ho nabral Bláha špinavým předním kolem rovnou do břicha a na jeho naškro­bené košili vytvořil pořádný černý pruh. Dědka to zmátlo, ale než se trochu vzpamatoval, prodíral se Bláha mezi košilemi dovnitř. O některé se otřel řetězem, jiné strhl na zem a podrážkami změnil k nepoznání. Pomalu bylo jasné, že Dědek celý příští týden nemá v čem chodit, ale nešťastník nechtěl křičet, aby nevzbudil družku.
 
 Viditelnost se výrazně zlepšila a Bláha se trochu zorientoval. Dvojkolo opřel o stůl, sebral ze země špinavý hadr, v nějž se změnila vypraná košile, a se spokojeným mručením začal kolo pečlivě pucovat. Černá špína stékala na béžový koberec. Dědek konečně strašlivě zařval, jenže tím vyděsil spící Moniku, a než ji uklidnil, bylo po boji. Čistá košile nezbyla ani jedna, na koberci zůstala veliká skvrna a vedle vycíděného kola stál Bláha, culil se a skromně šeptal: „To je pro vás dva. Dárek. Není nic romantičtějšího než vidět dva šťastné, zamilované lidi, jak proplouvají na dvojkole krajinou.“
+
+</section>

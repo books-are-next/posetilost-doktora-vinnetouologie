@@ -3,7 +3,7 @@ title: Porta
 contentType: prose
 ---
 
-  
+<section>
 
 Jednoho dne jsem se rozhodl, že je načase poznat svět. A na základě písniček z rádia jsem měl dojem, že bude nejlepší poznat ho jako tramp. Otrhal jsem ozdoby ze starého tátova klobouku a nad párou z něj udělal úžasnou hučku, obarvil v duze starou košili i džíny, naučil se balit spacák do celty. A zamířil jsem na folkový festival do Plzně. Stopem, jako správný tramp. Jenže v té výstroji jsem vypadal spíš jako bláznivý vodník a dlouho mi nikdo nechtěl zastavit.
 
@@ -46,3 +46,5 @@ Kolej v Brněnské ulici sousedila s ulicí Tovární, která vedla kolem obro
 Kolej, to byl starý činžák zabraný po odsunutých Němcích. Fakulta ho získala těsně po válce a při svém založení, když se ukázala potřeba nahradit odsunutou německou inteligenci. Během prázdninové brigády v něm studenti krumpáči vybourali všechny příčky a v patrech postavili spoustu malých krcálků vybavených palandami. Na každé patro připadala jedna sprcha, záchod a kuchyňský kout.
 
 Dlouho mne nenapadlo, jak je pošetilé ocitnout se právě tady, vedle dýmající chemičky a kousek od řeky Bíliny, která tou chemičkou protékala a několikrát za den měnila barvu, když se člověk rozhodne projít světem jako tramp. Možná proto, že jsem tam ve svých představách nekončil, ale začínal, jsem to tenkrát chápal: vydal jsem se najít krásný, tolerantní, velkorysý a důvěryplný svět – a tohle byl první krok.
+
+</section>

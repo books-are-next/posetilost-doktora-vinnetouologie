@@ -3,7 +3,7 @@ title: Kotva
 contentType: prose
 ---
 
-  
+<section>
 
 Jeli jsme po břehu Labe a v jednom okamžiku musel řidič zastavit a přesvědčit se, že jsme stále ještě na silnici. Najednou se mlha jako mávnutím proutku rozestoupila a my vjížděli do přístavní čtvrti Vaňov. Bláha mne vystrkal hned na první zastávce, která se jmenovala U Kotvy.
 
@@ -42,3 +42,5 @@ Tenhle Pilot si náramně padl do oka s Bláhou. Pili a uzavírali spolu sázk
 Usínal jsem se šťastným úsměvem na rtech. Stejně jako většina mých vrstevníků jsem i já věřil, že člověk je v životě tím šťastnější, čím méně věcí ho omezuje, čím méně věcí musí. Až později mi došlo, jak je to pošetilé.
 
 Tenkrát mi ale bylo všechno jasné: docent Krátký nás omezoval, a pořádně. Nebylo těžké přijít na to, co dál. Musím se stát doktorem vinnetouologie. Té noci se mi určitě zdály samé krásné sny, protože jsem věřil, že dělám další krok směrem, kde leží můj vysněný svět.
+
+</section>

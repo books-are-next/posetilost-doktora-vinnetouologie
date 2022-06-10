@@ -3,7 +3,7 @@ title: Svatba
 contentType: prose
 ---
 
-  
+<section>
 
 Přešlo těžké léto, přišel podzim a Dědek s Monikou se brali. Svatba se chystala na střekovské radnici a už několik dní předem zašel Dědek za svými rodiči, půjčil si od nich auto a vyvezl nás na výlet na Kamýk, aby získal v řízení trochu větší cvik. Po výletě dokonce velmi odpovědně pověsil klíčky na věšák v předsíni a všem nám je ukazoval a opakoval pořád dokola: „Tady visí klíčky od auta, kdybychom je pak v tom zmatku náhodou hledali, alespoň jeden si vzpomene.“
 
@@ -42,3 +42,5 @@ Bláha jako vždy přeháněl, koulel očima a křičel, že je Dědek hazardé
 Dědek se smál, že než stihnou ty jeho kabely zoxidovat nebo co, bude to mít dávno předělaný, ale že nehodlá vrtat hmoždinky do stropu celou svatební noc. A už vlastně chtějí být sami a hotovo.
 
 Bláha uraženě stiskl zuby, vytrhl z cigarety povykroucený filtr a naznačil mi, že je čas jít spát na Brněnskou.
+
+</section>

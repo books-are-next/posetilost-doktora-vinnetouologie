@@ -3,7 +3,7 @@ title: Roudnické rosé
 contentType: prose
 ---
 
-  
+<section>
 
 Dědkovi se ulevilo. Říkal, že jsem jeho zásluhou málem z fakulty vyletěl a teď jsem se trošku jeho zásluhou na fakultě udržel. Na důkaz radosti koupil několik lahví roudnického zámeckého rosé, které se prodávalo v Ústí na jediném místě, v Zelenině naproti hlavnímu nádraží. Ty lahve dal jednoho dne časně z rána do baťohu a odjel prvním vlakem do Děčína a odtud dělnickým autobusem za Hřensko, sešel po dlouhých kamenných schodech dolů k jezu u mlýna, vytáhl první lahev vína, omotal ji žlutou suchou trávou, která tam trčela ze sněhu, a schoval ji do skuliny pod starým mlýnským kamenem. A pak šel dál a dál údolím říčky Kamenice a ukládal je v dutém pařezu, ve skalní rozsedlině, ve vykotlaném břehu zamr­z­lého potoka – a všechno pečlivě zaznamenával do mapy, kterou pak ve vlaku na zpáteční cestě dvakrát obkreslil.
 
@@ -30,3 +30,5 @@ Nevěděli, že o tu holku stojím. Omlouvali se mi pak, jak mohli, ale pro mne
 Někdy, když se vracím večer unavený z práce, pozoruji studenty. Na rozdíl ode mne se zdají plní energie. Často se neudržím a závidím jim tu lehkost, s jakou dokáží být šťastní. Je to samozřejmě pošetilost. Jako bych si nepamatoval trápení a strachy, které jsem míval v jejich věku, jako bych zapomněl, jak černě jsem po příhodě v bufetu viděl celý svět.
 
 Oženil jsem se ani ne za dva roky, a ačkoli si to žena moc přála, dlouho jsme se nedostali k moři. Děcko bylo malé, pak nebyly peníze, pak se zařizoval větší byt. Když se to konečně povedlo, malému byla cesta autobusem dlouhá a celou ji prozlobil. V kajutě na trajektu bylo dusno, takže v noci nespal, a my jsme přijeli na místo úplně vyčerpaní. Ale přesto, když jsme jednou stáli na pláži, dokázala se rozběhnout proti vlnám a udělat pár neuvěřitelně lehkých tanečních krůčků. Nikdy jsem si nemyslel, že je život kdovíjak lehký, ale teď jsem viděl, že se celá jeho tíha dá zvednout nad hlavu a že i když se nám nohy boří po kotníky do písku, ještě pořád se dá při tom tančit.
+
+</section>

@@ -3,7 +3,7 @@ title: Lopatkiáda
 contentType: prose
 ---
 
-  
+<section>
 
 Jediné, co jsem dlouho věděl o spolubydlícím, který spával na palandě nade mnou, bylo, že je vášnivý kuřák. Kouříval silné cigarety, které nesměly mít filtr, a kdokoli se zeptal proč, zařval na celé kolo, že nesnáší cezený prožitky. Když nesehnal svoje cigarety, žmoulal chvíli filtr mezi prsty, dokud se trochu nepovysunul a nešel vytáhnout zuby. Filtry plival do popelníků, takže člověk při pohledu na takhle zaplněný popelník v nějaké hospodě věděl, že soused nebude daleko. Filtrů se zbavoval netrpělivě, skoro horečnatě, a po prvním silném vtažení kouře většinou vypouštěl i neuvěřitelně silný výkřik „Bláááhóóó!!!“, který mu vynesl přezdívku.
 
@@ -18,3 +18,5 @@ Když napadl sníh, našel místo pro odvetu na úzké asfaltce vedoucí nahoru 
 Nakonec všichni posílali Bláhu do háje a chodili raději do hospody. Všichni, kdo měli pud sebezáchovy, kromě mne, který nechtěl jen tak zahodit příležitost vidět Bláhu, jak se řítí kolem šílenou rychlostí přímo do hustého křoví, a místo aby brzdil, chechtá se a křičí na celé kolo, že to bude bezva perda a že mu ještě ke všemu hoří celá „prdéééél!“ Nekecal. Někdy lopatku hodil na sníh, vášnivě šlukoval a uhranutě se díval, jak pod ní vytává ve sněhu čtvereček.
 
 Pokoj zahulený na hranici viditelnosti není právě to, co by vyhledával člověk, který se rozhodne projít světem jako tramp, ale jinak mne to k jeho sršatým výbojům nepřekonatelně přitahovalo. Ožíval jsem v tom jeho elektrickém obvodu a někdy jsem se tak rozparádil, že jsem řvával na celé kolo stejně jako on při sešupech z Mariánské skály: „Jedéém!! Do roztrhání těláá!! Do roztrhání těláá!!! Jedéém!!“ A hmatatelně jsem cítil, jak jsem šťastný.
+
+</section>

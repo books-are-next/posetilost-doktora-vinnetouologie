@@ -3,7 +3,7 @@ title: Aura
 contentType: prose
 ---
 
-  
+<section>
 
 Každý z nás se s tím zjevením vyrovnával po svém, nejživelněji samozřejmě Bláha. Slídil a slídil po meditačních kurzech, po kurzech jógy, zenu a kdovíčeho ještě. Dalo mu to velkou práci, protože v té době vědělo o takových věcech jen pár zasvěcených, literatura skoro nevycházela a také to nebyl takový kšeft jako dnes.
 
@@ -22,3 +22,5 @@ Bláha vykřikoval mezi šluky, že už si zvykl na pocit, že posere všechno, 
 Kupodivu Bláhu státní cirkusy opravdu využily. Jejich zaměstnanci trávili velikou část roku na cestách, vozili s sebou v maringotkách děti, a aby během štace úplně nezpustly, potřebovali pro ně učitele.
 
 Nabídli mu, že by mohl odjet okamžitě s jedním cirkusem, od kterého utekla učitelka, protože opilí stavěči stanů dlouho do noci kývali její maringotkou a nechtěli přestat, dokud se neukáže v okénku nahá. Měli jsme oba před státnicemi, soustředilo to na sebe skoro všechnu naši pozornost, takže když Bláha hned po nich nastoupil do vlaku a na dlouho nám zmizel z očí, bylo to, jako by máchl proutkem.
+
+</section>

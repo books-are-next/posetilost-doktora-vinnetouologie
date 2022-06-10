@@ -3,7 +3,7 @@ title: Na Mariánské skále
 contentType: prose
 ---
 
-  
+<section>
 
 Ještě jednou jsme se pokusili seřídit svět na naše oktanové číslo a vyrazili s Bláhou potupit Krátkého tank, památník tankové bitvy, který museli studenti vybudovat během povinných letních brigád, ačkoli je to jasná pošetilost. I Zoja kdysi řekla, že až začnem dělat něco pořádného, přestanou nás ty blbiny bavit.
 
@@ -20,3 +20,5 @@ Dlouho jsme se nemohli sejít. Dědek dojížděl každý den na učňák do Lov
 Až jednoho pátečního večera koncem ledna jsme pomalu stoupali úzkou cestou na Mariánskou skálu. Sněhu nebylo moc a dole ve městě úplná břečka. Stmívalo se, Bláha každou chvíli do sněhu dloubal, zkoušel, jestli to vůbec pojede, a nadával, že když jsme se konečně sešli, jde sem od Prahy obleva.
 
 Na místě, kde jsme vždycky nasedali, nás něco zaujalo. Měli jsme pocit, jako by kousek od nás vedl z oblohy dolů proužek světla. Dívali jsme se na to s úžasem a najednou v tom světle před námi stála Zoja. Nebyla si úplně podobná, protože její obličej byl snad poprvé šťastný, ale měla na sobě motorkářskou kombinézu, kterou jsme si nemohli splést, a v ruce držela svoji přilbu značky Bell. Jednou rukou nám krátce pokynula, a než jsme ji stihli oslovit, zase zmizela. Postávali jsme a posedávali kolem toho místa a nechtěli odejít. Snad jsme doufali, že se ještě dočkáme nějakého vysvětlení. Ale už se neobjevila. Jenom když člověk procházel místem, kde stála, měl pocit, jako by nám tam nechala kousek toho svého štěstí na horší časy. Když ty horší časy přišly, chodíval jsem často na Mariánskou skálu a pokaždé jsem se pak dolů do ústecké mlhy vracel s lehčím srdcem.
+
+</section>

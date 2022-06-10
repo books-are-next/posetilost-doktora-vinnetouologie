@@ -3,7 +3,7 @@ title: Šachy
 contentType: prose
 ---
 
-  
+<section>
 
 Hrdlička se nikdy nesmířil s tím, že mu Dědek vyfoukl místo, které měl na dosah, ani že jsem mu pak to samé udělal já. Nevynechal jedinou příležitost, aby mne nevyhazoval ze sedla, nebo mne alespoň nepopíchl. Trvalo to už moc dlouho a tím to právě bylo úmorné. Možná by se mu to povedlo, ale já měl jedno veliké štěstí. Školy tou dobou už měly značnou ekonomickou samostatnost a já, vychovaný jako hokynářský synek, jsem dokázal hospodařit líp, než si vedli na ostatních školách. Bylo to dost viditelné, abych díky tomu měl hodně zastánců.
 
@@ -20,3 +20,5 @@ Nemohl jsem se starat o jeho čelist, protože rváč musel pustit tátův krk 
 Vítězové si rozebrali po stole poházené peníze a trousili se ven. Táta odešel, aniž se s námi rozloučil. Dodnes nevím, jestli se styděl za to, do čeho nás zatáhl, nebo za náš mizerný výkon při jeho obraně. Ale s návrhem vytunelovat školu už za mnou nikdy nepřijel, takže jsem ho nakonec asi přeci jen zklamal.
 
 Často jsem tehdy dával své ženě hlavu na prsa a vydržel dlouho ležet a poslouchat se zavřenýma očima. Ta pravidelnost dechu a pravidelný tlukot srdce mne vždycky přesvědčily, že to základní je v pořádku, že věci jsou přeci jenom na svém místě. Ani tenkrát, v těžké době, která potom přišla, jsem nepřestal věřit, že štěstí má v sobě velikou sílu, a stejně mi v těch chvílích probíhal před očima film složený ze samých šťastných okamžiků. Ostatní zůstaly někde ve střižně, nepovedly se zkrátka a nebyly použity, s tím se přece počítá.
+
+</section>

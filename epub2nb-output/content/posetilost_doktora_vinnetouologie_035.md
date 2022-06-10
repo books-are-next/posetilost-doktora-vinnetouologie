@@ -3,7 +3,7 @@ title: Stříbrný vítr
 contentType: prose
 ---
 
-  
+<section>
 
 Za několik dní nato byla důležitá porada. Mířil jsem ke škole, čím blíž škole, tím více žáků mne zdravilo a já se snažil nedávat na sobě nic znát. Samozřejmě jsem si byl jist, že se to prolátlo a všichni se mi za zády smějí. Čekaly mne dvě hodiny, které jsem měl odučit, a hlavou se mi honilo, kde vezmu sílu přečkat je se ctí.
 
@@ -18,3 +18,5 @@ Byla už tma, když jsem vyšel ven. Chvíli jsem se toulal ulicemi Ústí sem a
 Unavený jsem si sedl na lavičku. Snažil jsem se promítnout za zavřenými víčky alespoň svůj film, sestříhaný ze záběrů u mlýna, v roklích, na Loupežnické skále, ale jako by se přetrhl, jako by najednou nešel nasadit do promítačky.
 
 Zbývalo mi to poslední. Zdravou rukou jsem vyhloubil jamku, pak do ní ruku vložil a opatrně ji zahrnul hlínou. Loktem ovázané ruky to šlo těžce a pomalu, ale nakonec bylo všechno hotové. Klečel jsem jako kdysi Bláha a v duchu křičel: „Jestli tam na druhé straně někdo je, tady jsem, volám, přijďte mi na pomoc.“ Klečel jsem dlouho a nakonec jsem usnul vyčerpáním. I ve spánku mi ale srdce bušilo a upěchovaná hlína vysílala zemí jako tamtamy můj tep.
+
+</section>

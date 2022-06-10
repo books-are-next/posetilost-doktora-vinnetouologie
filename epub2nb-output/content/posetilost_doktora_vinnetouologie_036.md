@@ -3,7 +3,7 @@ title: Přilba
 contentType: prose
 ---
 
-  
+<section>
 
 Zdál se mi zvláštní sen. Byl jsem zase malý, na dětském hřišti za domem, a vozil jsem se na kolotoči. Točil se čím dál rychleji a odstředivá síla mne nezadržitelně sunula k jeho okraji. Chtěl jsem se něčeho zachytit, ale marně. A v poslední chvíli, když jsem byl strachem bez sebe, mne náhle pevně zachytila obrovská chlupatá ruka. Pevně mne držela a já byl najednou zase velký. Do očí se mi díval továrník Schicht. „Znám tě,“ sípal, „dupals v kanadách po trávě nad mým bazénem. Znám vás všechny, ale tebe sem tam i pozoruju.“ Byl jako busta. Viděl jsem jen ramena, obličej a ruku. Zbytek se mi ztrácel v hlíně. Drželi jsme se, každý pevně na svém místě a země se s námi otáčela. „Děláš směšné věci,“ dodal, „dokonale pošetilé, jako my všichni, jestli spolu máme chvíli mluvit. Třeba nechat u sebe přespat úplně cizího kluka. Sebrat ho opilýho na refýži, předstírat, že máš náhodou volný byt, nanosit mu hory jídla a pak přespat ve škole. Naprostá pitomost násobená tím, že ses ráno ještě divil, co všechno ti odnes. Dodneška si nad tím lámu hlavu. Co to mělo znamenat? Proč si to dělal? Ale to nic. Tady to není jiný.“ Došla mu řeč. Pořád mě ještě držel, ale už se jenom rozhlížel kolem a za chvíli bez rozloučení zmizel. Místo „Nazdar“ řekl jenom „A hele, už jde“.
 
@@ -18,3 +18,5 @@ A pak teprve jsme se k sobě vrhli a po letech se objali. A mihla se mi pře
 Když jsem se vrátil myšlenkami zpátky na zem, Bláha s Dědkem se někam upřeně dívali. Na kopci nad námi stála Zoja. Usmála se. Pěkně popořadě na každého z nás. Teď konečně jsem cítil, že se o nás přestala bát.
 
 A pak upustila do sněhu svoji značkovou přilbu. Bellka sebou měkce ťukla do sněhu, tichounce, jako by zacinkal zvonek. A Zoja začala stoupat. Vzdalovala se, ale za ní zůstávala stopa jako čára za tryskáčem, podle které poznáte jeho směr. Jako ukazatel do zaslíbené země.
+
+</section>

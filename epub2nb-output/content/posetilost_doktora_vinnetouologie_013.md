@@ -3,7 +3,7 @@ title: Index
 contentType: prose
 ---
 
-  
+<section>
 
 Skončily prázdniny a zvolna se rozjížděl zimní semestr, když mne Dědek požádal o malou službu. Začínal jsem tou dobou třetí rok na Brněnské, přestože jsem měl nárok bydlet v nové koleji na Klíši. Jenže Krátký nechal vstupní halu přetnout mříží sahající až do stropu a v ní zůstal jenom úzký průchod kolem vrátnice. Člověk musel přijít až k vrátnému a ukázat průkaz. Vrátný zmáčkl knoflík, dveře zabzučely a otevřely se.
 
@@ -16,3 +16,5 @@ Můj index putoval ke Krátkému a ten ze mne chtěl dostat jméno toho kluka. 
 Krátký to chvíli zkoušel po zlém a chvíli zase po dobrém a v jednom okamžiku mi nabídl cigára, docela elegantně je ke mně přes stůl poslal skluzem a já poděkoval a chvíli žmoulal filtr mezi prsty a pak jej zuby vytáhl, jak to dělal Bláha. Naposledy jsem kouřil ve dvanácti letech: dal jsem si s kamarády za domem pár šluků a pak se ve výtahu cestou domů pozvracel. Tohle bylo třetí řešení.
 
 Párkrát jsem mocně zabafal jako sám Bláha. Pak se mi strašně zamotala hlava, ale nepřestal jsem, dokud jsem nepozvracel celý proděkanův stůl. Křičel, že jsem prase, ale dočista ho přešla chuť pokračovat ve výslechu. Podmínečně mne sice na rok propustil z koleje, ale nic víc. A nevyhnal mě ani z fakulty, ani z mého vysněného světa.
+
+</section>
