@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fahrner-posetilost-doktora-vinnetouologie-3408974",
-  "revision": "3408974",
+  "identifier": "fahrner-posetilost-doktora-vinnetouologie-9a1af72",
+  "revision": "9a1af72",
   "readingOrder": [
     "promo.html",
     "posetilost_doktora_vinnetouologie_005.html",
@@ -47,8 +47,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:54:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883645689
+    "date": "Sat Jun 11 2022 12:09:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949360238
   },
   "documents": [
     {
