@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fahrner-posetilost-doktora-vinnetouologie-1fe5c3f",
-  "revision": "1fe5c3f",
+  "identifier": "fahrner-posetilost-doktora-vinnetouologie-fa5d97a",
+  "revision": "fa5d97a",
   "readingOrder": [
     "promo.html",
     "posetilost_doktora_vinnetouologie_005.html",
@@ -44,11 +44,11 @@
     "posetilost_doktora_vinnetouologie_034.html",
     "posetilost_doktora_vinnetouologie_035.html",
     "posetilost_doktora_vinnetouologie_036.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:21:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979689082
+    "date": "Thu Jul 07 2022 08:36:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182997208
   },
   "documents": [
     {
@@ -217,7 +217,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak se vyhnout kopcům",
+          "name": "Jak se vyhnout kopcům",
           "id": null,
           "children": []
         }
@@ -692,7 +692,7 @@
       "role": "chapter",
       "order": 32,
       "prev": "posetilost_doktora_vinnetouologie_035.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -705,11 +705,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 133,
-      "chars": 906,
+      "chars": 905,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "posetilost_doktora_vinnetouologie_036.html",
       "next": null,
@@ -726,9 +726,9 @@
   ],
   "totals": {
     "all": {
-      "words": 22604,
-      "chars": 132827,
-      "ideas": 372
+      "words": 22723,
+      "chars": 133625,
+      "ideas": 387
     },
     "chapters": {
       "words": 22464,

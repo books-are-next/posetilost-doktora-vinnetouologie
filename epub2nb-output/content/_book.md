@@ -47,7 +47,7 @@ readingOrder:
   - posetilost_doktora_vinnetouologie_034.html
   - posetilost_doktora_vinnetouologie_035.html
   - posetilost_doktora_vinnetouologie_036.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
