@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-0587-9
 readingOrder:
   - promo.html
   - posetilost_doktora_vinnetouologie_005.html
