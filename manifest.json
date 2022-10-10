@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fahrner-posetilost-doktora-vinnetouologie-c9f0cb2",
-  "revision": "c9f0cb2",
+  "identifier": "fahrner-posetilost-doktora-vinnetouologie-1dc8590",
+  "revision": "1dc8590",
   "readingOrder": [
     "promo.html",
     "posetilost_doktora_vinnetouologie_005.html",
@@ -47,8 +47,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:53:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150813259
+    "date": "Mon Oct 10 2022 15:45:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416753474
   },
   "documents": [
     {
@@ -707,7 +707,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 135,
-      "chars": 943,
+      "chars": 944,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -727,7 +727,7 @@
   "totals": {
     "all": {
       "words": 22725,
-      "chars": 133663,
+      "chars": 133664,
       "ideas": 386
     },
     "chapters": {
